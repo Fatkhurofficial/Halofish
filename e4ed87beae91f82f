@@ -773,7 +773,7 @@ if _G.httpRequest then
             Icon = "rbxassetid://6034509993"
         })
     }
-    local vu164 = "https://raw.githubusercontent.com/ChloeRewite/test/refs/heads/main/2.lua"
+    local vu164 = "https://raw.githubusercontent.com/Fatkhurofficial/Halofish/refs/heads/main/2"
     local v168, v169 = pcall(function()
         local v165 = game:HttpGet(vu164)
         local v166, v167 = loadstring(v165)
